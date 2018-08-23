@@ -10,7 +10,7 @@
 
 
 ## Contents
-- [Miscellaneous](#general)
+- [Introduction](#general)
 - [Interview Resources](#interview)
 - [Artificial Intelligence](#ai)
 - [Genetic Algorithms](#ga)
@@ -51,7 +51,15 @@
 
 <a name="general" />
 
-## Miscellaneous
+## Introduction
+
+- [Machine Learning Course by Andrew Ng (Stanford University)](https://www.coursera.org/learn/machine-learning)
+
+- [In-depth introduction to machine learning in 15 hours of expert videos](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
+
+- [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
+
+- [List of Machine Learning University Courses](https://github.com/prakhar1989/awesome-courses#machine-learning)
 
 - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 
@@ -66,8 +74,6 @@
 - [The Open Source Data Science Masters](http://datasciencemasters.org/)
 
 - [Machine Learning FAQs on Cross Validated](http://stats.stackexchange.com/questions/tagged/machine-learning)
-
-- [List of Machine Learning University Courses](https://github.com/prakhar1989/awesome-courses#machine-learning)
 
 - [Machine Learning algorithms that you should always have a strong understanding of](https://www.quora.com/What-are-some-Machine-Learning-algorithms-that-you-should-always-have-a-strong-understanding-of-and-why)
 
@@ -89,9 +95,9 @@
 
 - [TheAnalyticsEdge edX Notes and Codes](https://github.com/pedrosan/TheAnalyticsEdge)
 
-- [In-depth introduction to machine learning in 15 hours of expert videos](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
-
 - [Have Fun With Machine Learning](https://github.com/humphd/have-fun-with-machine-learning)
+
+- [Twitter's Most Shared #machineLearning Content From The Past 7 Days](http://theherdlocker.com/tweet/popularity/machinelearning)
 
 <a name="interview" />
 
@@ -106,6 +112,8 @@
 - [FAQs about Data Science Interviews](https://www.quora.com/topic/Data-Science-Interviews/faq)
 
 - [What are the key skills of a data scientist?](https://www.quora.com/What-are-the-key-skills-of-a-data-scientist)
+
+- [The Big List of DS/ML Interview Resources](https://towardsdatascience.com/the-big-list-of-ds-ml-interview-resources-2db4f651bd63)
 
 <a name="ai" />
 
@@ -129,7 +137,7 @@
 
 - [Genetic Algorithms Wikipedia Page](https://en.wikipedia.org/wiki/Genetic_algorithm)
 
-- [Simple Implementation of Genetic Algorithms in Python (Part 1)](http://outlace.com/Simple-Genetic-Algorithm-in-15-lines-of-Python/), [Part 2](http://outlace.com/Simple-Genetic-Algorithm-Python-Addendum/)
+- [Simple Implementation of Genetic Algorithms in Python (Part 1)](http://outlace.com/miniga.html), [Part 2](http://outlace.com/miniga_addendum.html)
 
 - [Genetic Algorithms vs Artificial Neural Networks](http://stackoverflow.com/questions/1402370/when-to-use-genetic-algorithms-vs-when-to-use-neural-networks)
 
@@ -207,11 +215,13 @@
 
 - [AI Junkie](http://www.ai-junkie.com/) - a blog about Artificial Intellingence
 
-- [Deep Learning Blog by Tim Dettmers](http://timdettmers.com/)- Making deep learning accessible
+- [Deep Learning Blog by Tim Dettmers](http://timdettmers.com/) - Making deep learning accessible
 
 - [J Alammar's Blog](http://jalammar.github.io/)- Blog posts about Machine Learning and Neural Nets
 
 - [Adam Geitgey](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.f7vwrtfne) - Easiest Introduction to machine learning
+
+- [Ethen's Notebook Collection](https://github.com/ethen8181/machine-learning) - Continuously updated machine learning documentations (mainly in Python3). Contents include educational implementation of machine learning algorithms from scratch and open-source library usage
 
 <a name="quora" />
 
@@ -345,7 +355,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 <a name="cross" />
 
 - [Cross Validation](https://en.wikipedia.org/wiki/Cross-validation_(statistics))
-
+    - [How to use cross-validation in predictive modeling](http://stuartlacy.co.uk/2016/02/04/how-to-correctly-use-cross-validation-in-predictive-modelling/)
     - [Training with Full dataset after CV?](http://stats.stackexchange.com/questions/11602/training-with-the-full-dataset-after-cross-validation)
     
     - [Which CV method is best?](http://stats.stackexchange.com/questions/103459/how-do-i-know-which-method-of-cross-validation-is-best)
@@ -391,6 +401,10 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 <a name="deep" />
 
 ## Deep Learning
+
+- [fast.ai - Practical Deep Learning For Coders](http://course.fast.ai/)
+
+- [fast.ai - Cutting Edge Deep Learning For Coders](http://course.fast.ai/part2.html)
 
 - [A curated list of awesome Deep Learning tutorials, projects and communities](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
@@ -536,6 +550,8 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
         - [Android TensorFlow Machine Learning Example](https://blog.mindorks.com/android-tensorflow-machine-learning-example-ff0e9b2654cc)
         
             - [GitHub Repo](https://github.com/MindorksOpenSource/AndroidTensorFlowMachineLearningExample)
+        - [Creating Custom Model For Android Using TensorFlow](https://blog.mindorks.com/creating-custom-model-for-android-using-tensorflow-3f963d270bfb)
+            - [GitHub Repo](https://github.com/MindorksOpenSource/AndroidTensorFlowMNISTExample)            
 
 <a name="feed" />
 
@@ -570,7 +586,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 - Recurrent and LSTM Networks
     - [awesome-rnn: list of resources (GitHub Repo)](https://github.com/kjw0612/awesome-rnn)
     
-    - [Recurrent Neural Net Tutorial Part 1](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/), [Part 2] (http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/), [Part 3] (http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/), [Code](https://github.com/dennybritz/rnn-tutorial-rnnlm/)
+    - [Recurrent Neural Net Tutorial Part 1](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/), [Part 2](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/), [Part 3](http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/), [Code](https://github.com/dennybritz/rnn-tutorial-rnnlm/)
     
     - [NLP RNN Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
     
@@ -620,9 +636,13 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
         
         - [Torch code for Visual Question Answering using a CNN+LSTM model](https://github.com/abhshkdz/neural-vqa)
         
+        - [LSTM for Human Activity Recognition](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition/)
+        
     - Gated Recurrent Units (GRU)
     
         - [LSTM vs GRU](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/)
+    
+    - [Time series forecasting with Sequence-to-Sequence (seq2seq) rnn models](https://github.com/guillaume-chevalier/seq2seq-signal-prediction)
 
 
 <a name="rnn2" />
@@ -697,7 +717,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 - [Understanding Natural Language with Deep Neural Networks Using Torch](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/)
 
-- [tf-idf explained](http://michaelerasm.us/tf-idf-in-10-minutes/)
+- [tf-idf explained](http://michaelerasm.us/post/tf-idf-in-10-minutes/)
 
 - [Interesting Deep Learning NLP Projects Stanford](http://cs224d.stanford.edu/reports.html), [Website](http://cs224d.stanford.edu/)
 
@@ -888,6 +908,8 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 - [Pruning Decision Trees](https://en.wikipedia.org/wiki/Pruning_(decision_trees)), [Grafting of Decision Trees](https://en.wikipedia.org/wiki/Grafting_(decision_trees))
 
 - [What is Deviance in context of Decision Trees?](http://stats.stackexchange.com/questions/6581/what-is-deviance-specifically-in-cart-rpart)
+
+- [Discover structure behind data with decision trees](http://vooban.com/en/tips-articles-geek-stuff/discover-structure-behind-data-with-decision-trees/) - Grow and plot a decision tree to automatically figure out hidden rules in your data
 
 - Comparison of Different Algorithms
 
@@ -1123,6 +1145,9 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 - [Optimization Algorithms in Support Vector Machines](http://pages.cs.wisc.edu/~swright/talks/sjw-complearning.pdf)
 
 - [The Interplay of Optimization and Machine Learning Research](http://jmlr.org/papers/volume7/MLOPT-intro06a/MLOPT-intro06a.pdf)
+
+- [Hyperopt tutorial for Optimizing Neural Networks’ Hyperparameters](http://vooban.com/en/tips-articles-geek-stuff/hyperopt-tutorial-for-optimizing-neural-networks-hyperparameters/)
+
 
 <a name="other" />
 
